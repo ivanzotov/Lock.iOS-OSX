@@ -1,4 +1,4 @@
-/* 
+/*
   Lock.strings
 
   Created by Ivan Zotov on 26.08.16.
@@ -12,6 +12,7 @@
 "ACCESS"="ВОЙТИ";
 "SIGN UP"="ЗАРЕГИСТРИРОВАТЬСЯ";
 "Sign Up"="Регистрация";
+"Email"="Электронная почта";
 "Password"="Пароль";
 "RESET PASSWORD"="ЗАБЫЛИ ПАРОЛЬ?";
 "Cancel"="Отмена";
@@ -20,3 +21,5 @@
 "SEND"="ОТПРАВИТЬ";
 "Login with Google"="Войти с помощью Google";
 "Login with VKONTAKTE"="Войти с помощью ВКонтакте";
+"Please enter your email address. We will send you an email to reset your password."=
+"Введите свой адрес электронной почты. Мы отправим вам письмо для сброса пароля";
