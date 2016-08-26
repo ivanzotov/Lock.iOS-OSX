@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		004A4B1E1D705D0E009CA658 /* Lock.strings in Resources */ = {isa = PBXBuildFile; fileRef = 004A4B1C1D705D0E009CA658 /* Lock.strings */; };
+		004A4B891D706249009CA658 /* Lock.strings in Frameworks */ = {isa = PBXBuildFile; fileRef = 004A4B871D70622A009CA658 /* Lock.strings */; };
 		5F0499B71CAB2C72006F6C05 /* A0Telemetry.h in Headers */ = {isa = PBXBuildFile; fileRef = 5F0499B51CAB2C72006F6C05 /* A0Telemetry.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		5F0499B81CAB2C72006F6C05 /* A0Telemetry.h in Headers */ = {isa = PBXBuildFile; fileRef = 5F0499B51CAB2C72006F6C05 /* A0Telemetry.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		5F0499B91CAB2C72006F6C05 /* A0Telemetry.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F0499B61CAB2C72006F6C05 /* A0Telemetry.m */; };
@@ -560,7 +560,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		004A4B1D1D705D0E009CA658 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/Lock.strings; sourceTree = "<group>"; };
+		004A4B881D70622B009CA658 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = Lock/ru.lproj/Lock.strings; sourceTree = "<group>"; };
 		5F0499B51CAB2C72006F6C05 /* A0Telemetry.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = A0Telemetry.h; sourceTree = "<group>"; };
 		5F0499B61CAB2C72006F6C05 /* A0Telemetry.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = A0Telemetry.m; sourceTree = "<group>"; };
 		5F2E38D71C2AE9BB007E71B2 /* AppInfo.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = AppInfo.json; sourceTree = "<group>"; };
@@ -1013,6 +1013,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				004A4B891D706249009CA658 /* Lock.strings in Frameworks */,
 				5FBAD1CE1BE7BA7C00703DD1 /* CocoaLumberjack.framework in Frameworks */,
 				5FBAD1CF1BE7BA7C00703DD1 /* AFNetworking.framework in Frameworks */,
 				5F624D211C39D722009EDD83 /* Masonry.framework in Frameworks */,
@@ -1067,7 +1068,7 @@
 		5FBACFEB1BE7AF8700703DD1 = {
 			isa = PBXGroup;
 			children = (
-				004A4B1C1D705D0E009CA658 /* Lock.strings */,
+				004A4B871D70622A009CA658 /* Lock.strings */,
 				5FBACFF71BE7AF8700703DD1 /* Lock */,
 				5FBAD22D1BE7BE1E00703DD1 /* MyLock */,
 				5FBAD4641BE7F93A00703DD1 /* LockTests */,
@@ -2130,7 +2131,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				5FBAD2B11BE7CCE500703DD1 /* Auth0.bundle in Resources */,
-				004A4B1E1D705D0E009CA658 /* Lock.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2567,10 +2567,10 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		004A4B1C1D705D0E009CA658 /* Lock.strings */ = {
+		004A4B871D70622A009CA658 /* Lock.strings */ = {
 			isa = PBXVariantGroup;
 			children = (
-				004A4B1D1D705D0E009CA658 /* ru */,
+				004A4B881D70622B009CA658 /* ru */,
 			);
 			name = Lock.strings;
 			sourceTree = "<group>";
