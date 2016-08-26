@@ -1,0 +1,22 @@
+/* 
+  Lock.strings
+
+  Created by Ivan Zotov on 26.08.16.
+  Copyright © 2016 Facebook. All rights reserved.
+*/
+
+"Login"="Вход";
+"LOGIN"="ВОЙТИ";
+"OR"="ИЛИ";
+"Please enter your email and password"="Введите свои email и пароль";
+"ACCESS"="ВОЙТИ";
+"SIGN UP"="ЗАРЕГИСТРИРОВАТЬСЯ";
+"Sign Up"="Регистрация";
+"Password"="Пароль";
+"RESET PASSWORD"="ЗАБЫЛИ ПАРОЛЬ?";
+"Cancel"="Отмена";
+"CANCEL"="ОТМЕНА";
+"Reset Password"="Сброс пароля";
+"SEND"="ОТПРАВИТЬ";
+"Login with Google"="Войти с помощью Google";
+"Login with VKONTAKTE"="Войти с помощью ВКонтакте";
