@@ -19,6 +19,22 @@
 "CANCEL"="ОТМЕНА";
 "Reset Password"="Сброс пароля";
 "SEND"="ОТПРАВИТЬ";
+"Send Passcode"="Вход по СМС";
+"Enter SMS code"="Ввод СМС кода";
+"Enter your phone to sign in or create an account"="Введите свой номер телефона чтобы войти";
+"Please check your phone %@.\nYou’ve received a message from us with your passcode"="СМС с кодом отправлено на номер %@.";
+"SMS Code"="Код из СМС";
+"DIDN'T RECEIVE CODE?"="ОТПРАВИТЬ КОД ЕЩЕ РАЗ";
+"Phone Number"="Номер телефона";
+"There was an error sending the SMS code"="Ошибка при отправке СМС кода";
+"Couldn't send an SMS to your phone. Please try again later."="Проблема отправки СМС на данный номер телефона. Пожалуйста, попробуйте позднее.";
+"The server could not be contacted"="Нет связи с сервером";
+"Make sure your network settings are correct and your network connection is active, or try again later."=
+"Проверьте интернет подключение или попробуйте позднее.";
+"There was an error logging in"="Ошибка входа";
+"Wrong phone number or passcode."="Не правильный номер телефона или код подтверждения.";
+"Search"="Поиск";
+"ALREADY HAVE A CODE?"="УЖЕ ЕСТЬ КОД ПОДТВЕРЖДЕНИЯ?";
 "Login with Google"="Войти с помощью Google";
 "Login with VKONTAKTE"="Войти с помощью ВКонтакте";
 "Please enter your email address. We will send you an email to reset your password."=
